@@ -1,0 +1,18 @@
+Title: OP-Z Fun
+Date: 2019-03-02 12:00
+Category: Music
+Cover: images/opz.jpeg
+Summary: Recently I purchased a Teenage Engineering OP-Z. Many of you have probably seen the OP-1 videos all over the internet—it looks like a weird piece of medical equipment, but it makes sweet, sweet tunes. The OP-Z is their new flagship product, not trying to replace the OP-1, but it is smaller and more powerful in some interesting ways.
+
+Recently I purchased a Teenage Engineering OP-Z. Many of you have probably seen the OP-1 videos all over the internet—it looks like a weird piece of medical equipment, but it makes sweet, sweet tunes. The OP-Z is their new flagship product, not trying to replace the OP-1, but it is smaller and more powerful in some interesting ways.
+
+Here's a track I made in the first couple of hours of owning the OP-Z.
+<div class="center"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/583890114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/samuel-hoober-colburn" title="Ho0ber" target="_blank" style="color: #cccccc; text-decoration: none;">Ho0ber</a> · <a href="https://soundcloud.com/samuel-hoober-colburn/zday-op-z" title="zDay (OP-Z)" target="_blank" style="color: #cccccc; text-decoration: none;">zDay (OP-Z)</a></div></div>
+
+I've been working on a few more since, and even using some in the Disney podcast I'm making with my spouse, [Bored & Sassy](https://boredandsassy.com/).
+
+Because my first dabbling on the OP-Z isn't all that impressive, here's a set on the OP-Z from one of the best-known OP-1 youtubers who has been deep-diving on the OP-Z and making instructional videos for the community.
+
+<div class="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RGUOXxQniKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+If you haven't checked out Jeremy's work before go check out his channel, [Red Means Recording](https://www.youtube.com/user/jjbbllkk).

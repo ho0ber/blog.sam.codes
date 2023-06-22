@@ -1,0 +1,147 @@
+@import url("fonts.css");
+
+:root {
+    --coder-background: #000;
+    --coder-title: #d30cb8;
+    --coder-body: #b8aec8;
+    --coder-link: #6df1d8;
+    --coder-visited: #825294;
+    --coder-borders: #5da4a6;
+    --coder-hover: #5da4a6;
+    --coder-active: #5da4a6;
+    --coder-headers: #d30cb8;
+    --coder-time: #6df1d8;
+    --coder-address: #5da4a6;
+    --coder-category: #b8aec8;
+}
+
+body {
+    font-family: DejaVuSansMono;
+    background: var(--coder-background);
+    color: var(--coder-body);
+}
+
+main {
+    max-width: 1000px;
+}
+
+/* article img {
+    max-width: 80%;
+    text-align: center;
+} */
+
+.inline {
+    max-width: 80%;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.caption {
+    font-style: italic;
+}
+
+
+.title {
+    font-size: min(10vw, 64px);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.logo {
+    height: 64px;
+    width: 64px;
+    vertical-align: bottom;
+}
+
+.cover {
+    max-height: 256px;
+    max-width: 100%;
+    float: right;
+}
+
+.thumbnail {
+    max-height: 128px;
+    max-width: 256px;
+    float: right;
+}
+
+nav p {
+    margin: 0px;
+}
+
+pre {
+    background-color: #000;
+}
+
+hr {
+    display: block; height: 1px;
+    border: 0; border-top: 1px dashed var(--coder-borders);
+    margin: 10px 0; padding: 0;
+    max-width: 1000px;
+}
+
+header h1 a:visited {
+    color: var(--coder-headers);
+}
+
+a:link {
+    color: var(--coder-link);
+    text-decoration: none;
+}
+
+a:visited {
+    color: var(--coder-visited);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--coder-hover);
+    text-decoration: none;
+}
+
+a:active {
+    color: var(--coder-active);
+    text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+    color: var(--coder-headers);
+}
+
+time {
+    color: var(--coder-time);
+}
+
+address {
+    color: var(--coder-address);
+}
+
+.category {
+    color: var(--coder-category);
+}
+
+.youtube-4x3 {
+	padding-bottom: 75%;  /* inverse of 4:3 aspect ratio */
+}
+.youtube-16x9 {
+	padding-bottom: 56.25%;  /* inverse of 16:9 aspect ratio */
+}
+.youtube-4x3,
+.youtube-16x9 {
+	position: relative;
+	height: 0;
+	overflow: hidden;
+}
+.youtube-4x3 iframe,
+.youtube-16x9 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	border: 0;
+}
