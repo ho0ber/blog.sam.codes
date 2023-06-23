@@ -65,12 +65,14 @@ main {
     max-height: 256px;
     max-width: 100%;
     float: right;
+    padding: 4px;
 }
 
 .thumbnail {
     max-height: 128px;
     max-width: 256px;
     float: right;
+    padding: 4px;
 }
 
 nav p {
