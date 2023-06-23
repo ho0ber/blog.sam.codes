@@ -13,12 +13,17 @@
     --coder-time: #6df1d8;
     --coder-address: #5da4a6;
     --coder-category: #b8aec8;
+    --coder-emphasis: #5da4a6;
 }
 
 body {
     font-family: DejaVuSansMono;
     background: var(--coder-background);
     color: var(--coder-body);
+}
+
+article em {
+    color: var(--coder-emphasis);
 }
 
 main {

@@ -1,0 +1,13 @@
+Title: New Music: Exiting
+Date: 2009-01-18 12:00
+Category: Music
+Cover: images/exiting.jpg
+Summary: Okay, so I know I can't compose for piano to save my life... and I surely can't play it with the grace I would like... but here's a little direct expression for you.
+
+_This blog post originally appeared on [beefthief.blogspot.com](https://beefthief.blogspot.com/2009/01/new-music-exiting.html) and has been copied here for posterity and to remind myself of what I was like in 2009. I can't actually find this track, but I'll keep looking._
+
+Okay, so I know I can't compose for piano to save my life... and I surely can't play it with the grace I would like... but here's a little direct expression for you.
+
+[Exiting.mp3](http://ho0ber.googlepages.com/exiting.mp3)
+
+All comments welcome, though this one is more for me than for anyone else.
