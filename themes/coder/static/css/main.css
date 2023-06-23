@@ -50,7 +50,7 @@ main {
 
 
 .title {
-    font-size: min(10vw, 64px);
+    font-size: min(8vw, 64px);
     margin-bottom: 0px;
     margin-top: 0px;
 }
