@@ -15,7 +15,7 @@ This year we are adding nine new chicks to our flock: three (more) ameraucanas, 
 
 This all sounds totally reasonable, right? I'm pretty handy, so this shouldn't be a big deal! I whipped up a design in SketchUp and started ordering materials.
 
-Unfortunately, this is the largest structure I've ever built alone, and I've learned some important lessons along the way.
+Unfortunately, this is the largest structure I've ever built alone, and I've had to learn some hard lessons along the way.
 
 The biggest thing that I learned is that as the scale increases, the errors and flaws compound. The mark of a good carpenter is not simply to build something perfectly to spec. That's the ideal, obviously, but especially when dealing with imperfect materials (and this wood was certainly imperfect), errors will occur. The challenge is in knowing which errors and imperfections must be corrected through rework, versus the errors that can be worked around and corrected in aggregate.
 
