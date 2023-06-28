@@ -32,6 +32,8 @@ Now, because I'm a software guy and a dork, as I was thinking through all of thi
 
 Responsible error handling, modularity and extensibility, function sizing, self-commenting naming, logging and observability, and scalability planning all factor into my initial design these days without me even thinking to include them. That's just the "shape" of my v1, and the process by which I construct and new software includes micro-refactors to set myself up for success. Now, mind you, [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) still applies; there's no reason to try to build a perfect temple of code with every new project. Finding the sweet spot of future-proofing your software is a lot like finding the sweet spot of precision required for building a chicken coop. If it's never going to be a 10-story chicken coop, you can get away with a lot.
 
+Maybe it's a bit of a feeble analogy, but it made me feel better about not being a terribly good carpenter.
+
 Anyway, the coop is not done (and it'll never truly be done), but it'll be move-in ready as of today. The chicks are getting too large for the stock tank they were raised in, so the timing here is good. By the end of the summer, we'll have all of our remaining members of the old flock moved in with them, significantly simplifying our chicken-keeping operation. This has been a challenging and exhausting project, but worth every curse, scrape, and penny to give our chickens a good home.
 
 <div class="center"><img src="images/rj.jpeg" class="inline" /></div>
