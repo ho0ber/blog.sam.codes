@@ -10,6 +10,12 @@
   {% if translations.entry_hreflang(article) %}
     {{ translations.entry_hreflang(article) }}
   {% endif %}
+  <meta property="og:title" content="{{ article.title }}">
+  <meta property="og:type" content="website">
+  {% if article.cover %}
+  <meta property="og:image" content="{{ SITEURL }}/{{ article.cover }}">
+  {% endif %}
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
 
   {% if article.description %}
     <meta name="description" content="{{article.description}}" />

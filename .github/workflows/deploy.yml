@@ -36,6 +36,8 @@ jobs:
           python-version: '3.10' 
       - name: Install Python Packages
         run: pip install -r requirements.txt
+      - name: Comment out relative urls option
+        run: sed -i 's/RELATIVE_URLS/#RELATIVE_URLS/g' pelicanconf.py
       - name: Generate Static Content
         run: pelican
       - name: Setup Pages
