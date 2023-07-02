@@ -2,10 +2,10 @@ Title: Lazylinks: Link pages for lazy people
 Date: 2023-07-02 19:30
 Category: Code
 Cover: images/links-page.jpg
-Summary: Over the last few months I've had a number of circumstances arise in which I wish I had a simple website I could send someone to help them find my various accounts. Between layoffs and social media network meltdowns, I know a lot of people who are setting up similar sites.
+Summary: Over the last few months I've had a number of circumstances arise in which I found myself wishing I had a simple website I could send someone to help them find my various accounts. Between layoffs and social media network meltdowns, I know a lot of people who are setting up similar sites.
 
 ## What is lazylinks?
-Over the last few months I've had a number of circumstances arise in which I wish I had a simple website I could send someone to help them find my various accounts. Between layoffs and social media network meltdowns, I know a lot of people who are setting up similar sites.
+Over the last few months I've had a number of circumstances arise in which I found myself wishing I had a simple website I could send someone to help them find my various accounts. Between layoffs and social media network meltdowns, I know a lot of people who are setting up similar sites.
 
 The usual approaches to making links pages fall into a few rough categtories:
 
