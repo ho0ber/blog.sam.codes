@@ -75,7 +75,7 @@ You just made your first changes to the links page! This should automatically tr
 
 * Click "Actions" in the nav bar at the top again and look for the running workflow.
 
-<div class="center"><img src="images/workflow-running.png" class="inline" /></div>
+<div class="center"><img src="images/workflow-running.jpg" class="inline" /></div>
 
 * Click on it and poke around if you like. It'll turn green when it completes (sometimes you might need to refresh the page)
 

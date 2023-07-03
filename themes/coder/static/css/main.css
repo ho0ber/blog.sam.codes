@@ -152,3 +152,8 @@ address {
 	margin: 0;
 	border: 0;
 }
+
+code {
+    font-size: 18px;
+    color: var(--coder-emphasis);
+}
