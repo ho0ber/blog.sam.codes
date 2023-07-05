@@ -38,6 +38,9 @@ main {
 .inline {
     max-width: 80%;
 }
+.inline-half {
+    max-width: 40%;
+}
 
 .center {
     text-align: center;
