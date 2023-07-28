@@ -32,3 +32,6 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 15
 RELATIVE_URLS = True
+MENUITEMS = [
+    ("About", 'hello-world.html')
+]
